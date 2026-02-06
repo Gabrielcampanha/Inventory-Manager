@@ -1,0 +1,8 @@
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\bin\Debug\Projeto Gestor.exe.config
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\bin\Debug\Projeto Gestor.exe
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\bin\Debug\Projeto Gestor.pdb
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\obj\Debug\Projeto Gestor.exe.config
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\obj\Debug\Projeto Gestor.exe
+C:\Users\gabri\Documents\Projetos .NET\Projeto Gestor\Projeto Gestor\Projeto Gestor\obj\Debug\Projeto Gestor.pdb
